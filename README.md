@@ -1,8 +1,2 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+En este proyecto, se realizó un administrador de clientes, utilizando react-routing-dom v-6.15.0, aprendí a como utilizar los respectivos hooks que te ofrece este framework. Como a su vez aprendí la herramienta de json-server que simula una api en tiempo real, con esto pude borrar clientes,obtener clientes, y editarlos. Se realizó el proyecto con vite.js 
